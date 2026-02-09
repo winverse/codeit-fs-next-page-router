@@ -1,5 +1,5 @@
 import GlobalLayout from '@/components/layouts/GlobalLayout';
-import '@/styles/reset.css';
+import '@/styles/reset.css.js';
 import '@/styles/globals.css.js';
 
 export default function App({ Component, pageProps }) {
